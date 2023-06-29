@@ -16,11 +16,11 @@ En resumen, QRConnectX es una solución integral que permite a los usuarios esca
 En el siguiente enlace se encontrara toda la documentacion pertinente a QRConnectX: https://drive.google.com/drive/folders/1nix7ejfbGIPTSbonsPZK2rWWkgNwWzmW?usp=sharing
 
 # :computer: Integrantes
-```js
+
 Nombres | Apellidos 
 ------ | -------
 Miguel Angel | Pozo Jacome 
 Luis Marcelo | Acosta Cortez 
 Manuel Elias | Carrillo Tixi
 Bryan Alexander | Freire Chamorro
-```
+
