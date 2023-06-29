@@ -18,7 +18,7 @@ En el siguiente enlace se encontrara toda la documentacion pertinente a QRConnec
 # :computer: Integrantes
 ```js
 Nombres | Apellidos 
------- | -------|
+------ | -------
 Miguel Angel | Pozo Jacome 
 Luis Marcelo | Acosta Cortez 
 Manuel Elias | Carrillo Tixi
