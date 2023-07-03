@@ -43,4 +43,10 @@ En el siguiente enlace se encontrara toda la documentacion pertinente a QRCONNEC
 #### Diagrama de base de datos
 En el siguiente enlace se encontrara el Modelo entidad-relación de la base de datos de QRCONNECTX: https://dbdiagram.io/d/649dc49202bd1c4a5e4490e1
 
+## :art: Ejemplo APIS
+
+#### apis
+
+> [APIS-CRUD.pdf](https://github.com/DEVPLUSEC/QRCONNECTX/files/11941218/APIS-CRUD.pdf)
+
 
