@@ -29,11 +29,12 @@ En el siguiente enlace se encontrara toda la documentacion pertinente a QRCONNEC
 #### Logo e icono
 
 - Logo con nombre
-> ![QRCONNECTX](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/3354cb4f-744b-4c0c-8013-e1852527ca48)
+> ![QRCONNECTX-NOMBRE](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/40518f8a-51ee-4c38-b062-75fb972c816c)
 - Logo sin nombre fondo 1
-> ![QRCONNECTX (2)](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/c11e962f-b7f6-4e3a-beba-b3d264662505)
+> ![QRCONNECTX-FONDO-1](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/1aad0694-6a9e-40ed-8657-c43281fa6413)
 - Logo sin nombre fondo 2
-> ![QRCONNECTX (1)](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/9989bc78-a617-49b2-b698-2aa14364180a)
+> ![QRCONNECTX-FONDO-2](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/6eb777a2-1bcf-4ea8-82f4-d17d7f2aa02c)
+
 
 #### Diseño de interfaz
 
