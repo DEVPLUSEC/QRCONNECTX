@@ -27,12 +27,13 @@ En el siguiente enlace se encontrara toda la documentacion pertinente a QRCONNEC
 ## :art: Diseño
 
 #### Logo e icono
-
-- Logo con nombre
-> ![QRCONNECTX-NOMBRE](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/40518f8a-51ee-4c38-b062-75fb972c816c)
-- Logo sin nombre fondo 1
+- Logo con nombre (fondo 1)
+> ![QRCONNECTX](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/d125643a-283e-480f-911f-8f7b0ff0cdff)
+- Logo sin nombre (fondo 1)
 > ![QRCONNECTX-FONDO-1](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/1aad0694-6a9e-40ed-8657-c43281fa6413)
-- Logo sin nombre fondo 2
+- Logo con nombre (fondo 2)
+> ![QRCONNECTX-NOMBRE](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/40518f8a-51ee-4c38-b062-75fb972c816c)
+- Logo sin nombre (fondo 2)
 > ![QRCONNECTX-FONDO-2](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/6eb777a2-1bcf-4ea8-82f4-d17d7f2aa02c)
 
 
@@ -40,4 +41,6 @@ En el siguiente enlace se encontrara toda la documentacion pertinente a QRCONNEC
 
 
 #### Diagrama de base de datos
+En el siguiente enlace se encontrara el Modelo entidad-relación de la base de datos de QRCONNECTX: https://dbdiagram.io/d/649dc49202bd1c4a5e4490e1
+
 
