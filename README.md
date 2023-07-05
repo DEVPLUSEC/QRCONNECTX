@@ -23,32 +23,84 @@ Bryan Alexander | Freire Chamorro
 
 ## :art: Diseño
 
-#### Logo e icono
-- Logo con nombre (fondo 1)
-> ![QRCONNECTX](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/d125643a-283e-480f-911f-8f7b0ff0cdff)
-- Logo sin nombre (fondo 1)
-> ![QRCONNECTX-FONDO-1](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/1aad0694-6a9e-40ed-8657-c43281fa6413)
-- Logo con nombre (fondo 2)
-> ![QRCONNECTX-NOMBRE](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/40518f8a-51ee-4c38-b062-75fb972c816c)
-- Logo sin nombre (fondo 2)
-> ![QRCONNECTX-FONDO-2](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/6eb777a2-1bcf-4ea8-82f4-d17d7f2aa02c)
+### Logo e icono  
+<table><tr><td valign="top" width="auto">
 
+Logo con nombre - fondo blanco
+<div align="center">  
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/d125643a-283e-480f-911f-8f7b0ff0cdff" width="200"></a></p>
+</div>
+</td><td valign="top" width="auto">
 
-#### Diseño de interfaz
+Logo sin nombre - fondo blanco
+<div align="center">  
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/1aad0694-6a9e-40ed-8657-c43281fa6413" width="200"></a></p>
+</div>
+</td><td valign="top" width="auto">
 
+Logo con nombre - fondo azul
+<div align="center">  
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/40518f8a-51ee-4c38-b062-75fb972c816c" width="200"></a></p>
+</div>
+</td><td valign="top" width="auto">
 
-#### Diagrama de base de datos
+Logo sin nombre - fondo azul
+<div align="center">  
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/6eb777a2-1bcf-4ea8-82f4-d17d7f2aa02c" width="200"></a></p>
+</div>
+</td></tr></table>  
+ 
+
+### Diagrama de base de datos
 En el siguiente enlace se encontrara el Modelo entidad-relación de la base de datos de QRCONNECTX: https://dbdiagram.io/d/649dc49202bd1c4a5e4490e1
-
-![QRConnectX (3)](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/bdf922a2-e82a-4f28-8bb8-c12fccb79227)
-
+> <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/bdf922a2-e82a-4f28-8bb8-c12fccb79227" width="500"></a></p>
 
 # 💻: QRCONNECTX-WEB
 
 El aplicativo web al estar alojado en un servidor se dio como opción viable la creacion de un repositorio a parte para realizar su seguimiento el cual se puede observar mediante el siguiente enlace:
 https://github.com/DEVPLUSEC/QRCONNECTX-WEB
 
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node logo" />
+  <img width="12" />
+</div>
+
+
 # 📱: QRCONNECTX-APP
 
 El aplicativo móvil como opción viable la creacion de un repositorio a parte para realizar su seguimiento el cual se puede observar mediante el siguiente enlace:
 https://github.com/DEVPLUSEC/QRCONNECTX-APP
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="40" alt="objectivec logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />    
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" /> 
+</div>
