@@ -45,7 +45,10 @@ En el siguiente enlace se encontrara el Modelo entidad-relación de la base de d
 
 # 💻: QRCONNECTX-WEB
 
+El aplicativo web al estar alojado en un servidor se dio como opción viable la creacion de un repositorio a parte para realizar su seguimiento el cual se puede observar mediante el siguiente enlace:
+https://github.com/DEVPLUSEC/QRCONNECTX-WEB
 
 # 📱: QRCONNECTX-APP
 
-
+El aplicativo móvil como opción viable la creacion de un repositorio a parte para realizar su seguimiento el cual se puede observar mediante el siguiente enlace:
+https://github.com/DEVPLUSEC/QRCONNECTX-APP
