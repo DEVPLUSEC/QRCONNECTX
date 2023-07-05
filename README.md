@@ -12,7 +12,7 @@ Además de la administración a través de la aplicación móvil, QRCONNECTX ofr
 
 En resumen, QRCONNECTX es una solución integral que permite a los usuarios escanear, ver, editar y eliminar datos de los equipos de computo a través de códigos QR. Con su aplicación móvil y plataforma web, QRCONNECTX facilita la gestión eficiente y precisa de los equipos, mejorando la productividad y la organización en entornos empresariales y personales.
 
-# :computer: Integrantes
+# :man_technologist: Integrantes
 
 Nombres | Apellidos 
 ------ | -------
@@ -20,9 +20,6 @@ Miguel Angel | Pozo Jacome
 Luis Marcelo | Acosta Cortez 
 Manuel Elias | Carrillo Tixi
 Bryan Alexander | Freire Chamorro
-
-# :hammer_and_wrench: Documentación
-En el siguiente enlace se encontrara toda la documentacion pertinente a QRCONNECTX: https://drive.google.com/drive/folders/1nix7ejfbGIPTSbonsPZK2rWWkgNwWzmW?usp=sharing
 
 ## :art: Diseño
 
@@ -43,10 +40,12 @@ En el siguiente enlace se encontrara toda la documentacion pertinente a QRCONNEC
 #### Diagrama de base de datos
 En el siguiente enlace se encontrara el Modelo entidad-relación de la base de datos de QRCONNECTX: https://dbdiagram.io/d/649dc49202bd1c4a5e4490e1
 
-## :art: Ejemplo APIS
+![QRConnectX (3)](https://github.com/DEVPLUSEC/QRCONNECTX/assets/125294027/bdf922a2-e82a-4f28-8bb8-c12fccb79227)
 
-#### apis
 
-> [APIS-CRUD.pdf](https://github.com/DEVPLUSEC/QRCONNECTX/files/11941218/APIS-CRUD.pdf)
+# 💻: QRCONNECTX-WEB
+
+
+# 📱: QRCONNECTX-APP
 
 
